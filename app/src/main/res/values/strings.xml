@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RepoFinder</string>
+    <string name="search_for_repositories">Search For Repositories</string>
+    <string name="profile_url">Profile link</string>
+    <string name="website">Website</string>
+</resources>
